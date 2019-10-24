@@ -1,0 +1,5 @@
+Thread 0: Start at 0, end at 1499
+Thread 1: Start at 1500, end at 2999
+Thread 2: Start at 3000, end at 4499
+Thread 3: Start at 4500, end at 5999
+The sum is 17196153
