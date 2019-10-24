@@ -47,5 +47,6 @@ int main() {
         pthread_join(thread, nullptr);
     }
     printf("The sum is %llu\n", sum);
+    pthread_mutex_destroy(&mtx);
     return 0;
 }
