@@ -1,0 +1,2 @@
+FIFO Page faults: 8044
+Second Chance Page faults: 7994
