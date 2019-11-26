@@ -1,0 +1,19 @@
+Time (data record number)  Data code      Data address           Comments
+--------------------------------------------------------------------------------------------
+0                          2              1051                  (Ref: 1) (Mod: 0) (Valid: 1)
+1                          2              1031                  (Ref: 1) (Mod: 0) (Valid: 1)
+2                          2              1030                  (Ref: 1) (Mod: 0) (Valid: 1)
+3                          0              65556                 (Ref: 1) (Mod: 1) (Valid: 1)
+4                          0              65549                 (Ref: 1) (Mod: 0) (Valid: 1)
+5                          0              65552                 (Ref: 1) (Mod: 1) (Valid: 1)
+6                          2              1100                  (Ref: 1) (Mod: 0) (Valid: 1)
+7                          2              1124                  (Ref: 1) (Mod: 0) (Valid: 1)
+8                          0              524267                (Ref: 1) (Mod: 1) (Valid: 1)
+9                          2              1052                  (Ref: 1) (Mod: 0) (Valid: 1)
+10                         0              65554                 (Ref: 1) (Mod: 1) (Valid: 1)
+11                         2              1123                  (Ref: 1) (Mod: 0) (Valid: 1)
+12                         0              65553                 (Ref: 1) (Mod: 1) (Valid: 1)
+13                         2              1029                  (Ref: 1) (Mod: 0) (Valid: 1)
+14                         2              1099                  (Ref: 1) (Mod: 0) (Valid: 1)
+15                         2              1053                  (Ref: 1) (Mod: 0) (Valid: 1)
+Faults 1962
